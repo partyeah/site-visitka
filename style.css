@@ -194,8 +194,8 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-size: 1.25rem;
-background-color: blue;
-color: white;
+background-color: #febe02;
+color: #1a1a1a;
 cursor: pointer;
 }
 
@@ -241,16 +241,9 @@ align-items: flex-end;
 padding-bottom: 20px;
 padding-left: 20px;
 }
-.img-card-1{background-image: url(img/card-1.png);}
+.img-card-1{background-image: url(img/изобр/из\ 1.jpg);}
 
-.btn-time{
-background-color: #fff;
-border-radius: 5px;
-color: #111;
-padding: 6px 12px;
-display: inline-block;
-margin-right: 8px;
-}
+
 .btn-raiting{
 width: 77px;
 background-color: #111;
@@ -284,11 +277,11 @@ line-height: 1.7;
 letter-spacing: 0.5px;
 }
 
-.img-card-2{background-image: url(img/card-2.png);}
+.img-card-2{background-image: url(img/изобр/из\ 2.jpg);}
 
-.img-card-3{background-image: url(img/card-3.png);}
+.img-card-3{background-image: url(img/изобр/из\ 3.jpg);}
 
-.img-card-4{background-image: url(img/card-4.png);}
+.img-card-4{background-image: url(img/изобр/из\ 4.jpg);}
 
 
 .foother{
