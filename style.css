@@ -102,7 +102,7 @@ max-width: 361px;
 display: flex;
 }
 .info-title{
-font-size: 20px;
+font-size: 50px;
 font-weight: bold;
 color: #fff;
 letter-spacing: 0.5px;
@@ -110,7 +110,7 @@ margin-top: 15px;
 margin-bottom: 4px;
 }
 .info-subtitle{
-font-size: 13px;
+font-size: 40px;
 color: #8c8c8c;
 font-weight: bold;
 letter-spacing: 1.5px;
